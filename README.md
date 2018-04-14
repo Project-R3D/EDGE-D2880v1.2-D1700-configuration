@@ -11,7 +11,11 @@ JSON FIles
 How to read the name 
 
 config- configurates the firmware for that printer 
+
 D17/1700 D28/2800- What printer it is meant for 
+
 Date- what date we implimented that last change 
+
 1.21- firmware version
+
 wR- what feature we are currently focusing on (with Recovery)
