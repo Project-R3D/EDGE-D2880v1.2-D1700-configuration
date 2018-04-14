@@ -19,3 +19,6 @@ Date- what date we implimented that last change
 1.21- firmware version
 
 wR- what feature we are currently focusing on (with Recovery)
+
+BEFORE YOU PRINT!!!!!
+Check the Extruder Steps/MM it should be 814 not 420 please adjust!
